@@ -1,0 +1,24 @@
+languageCode = "en-us"
+title = " & Perry Tea Ceremony"
+baseURL = "https://samesense.github.io/tea-site-hk/"
+theme = "hyde"
+publishDir = "public"
+name = "Hyde"
+tags = ["blog", "company"]
+features = ["blog", "themes", "disqus"]
+min_version = 0.20
+
+[author]
+    name = "samesense"
+    homepage = "http://spf13.com"
+
+# If Porting existing theme
+[original]
+    author =  "mdo"
+    homepage = "http://markdotto.com/"
+    repo = "https://www.github.com/mdo/hyde"
+
+[params]
+  themeColor = "theme-base-tea"
+  description = "Tuesday, Nov 21, 2017 @ noon - 香港半島酒店"
+  disqusShortname = "samesense"
