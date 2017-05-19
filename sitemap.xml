@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/main_event/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/02_getting_there/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/03_lodging/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/04_communication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/05_transit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/06_tour/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/info/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea-site-hk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
