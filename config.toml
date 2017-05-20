@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = " & Perry Tea Ceremony"
+title = "曉桓 & Perry 婚禮"
 baseURL = "https://samesense.github.io/tea-site-hk/"
 theme = "hyde"
 publishDir = "public"
@@ -20,5 +20,5 @@ min_version = 0.20
 
 [params]
   themeColor = "theme-base-tea"
-  description = "Tuesday, Nov 21, 2017 @ noon - 香港半島酒店"
+  description = "2017年11月21日 正午12時 香港半島酒店花園套房"
   disqusShortname = "samesense"
