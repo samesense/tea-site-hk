@@ -1,156 +1,107 @@
 +++
-title = "Tour"
+title = "本地團"
 menu = "main"
 weight = 6
 +++
 
-## Group tours 
+## 本地團 
 
-We will try to leverage a group discount where applicable. Please note that we may combine, move or cancel tours depending on signup activities.  
+本地團日期及內容會因應參加人數作出更改，敬請留意。 
 
-\*Date would change to maximize people who would like to join 
+### 付費全日團
+所列價格未加上團體節扣。 
 
-### Full Day Tours
-The following paid full day tours are available.  Prices listed are pre-group discount.  
-
-Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
+團號 | 團名 | 地點 | 價格包餐飲？ | 最大機會出發日期| 大概價錢 \(美元/人\) | 餐飲價錢 (如團不包)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-A | Macau 1 or 2 days | Macau | No | Nov 23 | $35 min | ? | 
-B| Hong Kong Geological park boat tour | at sea | Yes | Nov 24 | $75 min | N/A| 
-C| Ngong Ping 360 Cable Car + Big Buddha/Tai O | Lantau Island | No | Nov 20 | $20 min one way, $25 min round trip | $13 max |
-D| Hong Kong Wetland Park + seafood | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
+A | 澳門一日遊船票 | 澳門 | 不包 | 11月23日 | $35起 | ? | 
+B| 香港地質公園海上遊 | 海上 | 包 | 11月24日 | $75起 | N/A| 
+C| 昂坪360， 天壇大佛，大澳（？） 遊 | 大嶼山 | 不包 | 11月20日 | 單程$20起, 來回$25起 | 最多$13 |
+D| 香港濕地公園+流浮山海鮮餐| 天水圍, 流浮山 | ？ | 11月19 或 25日| ? | ? | 
  
-### Shorter Tours 
+### 半日團 
 
-The following paid shorter tours are available.  Prices listed are pre-group discount. 
+<b>付費半日團</b>
+所列價格未加上團體節扣。 
 
-Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
+團號 | 團名 | 地點 | 價格包餐飲？ | 最大機會出發日期| 大概價錢 \(美元/人\) | 餐飲價錢 (如團不包)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-E | Tolo Harbor biking tour + group grilling | Shatin, Taipo, Tai Mei Duk| No | Nov 22 | $8 min | $13 min|
-F | Night Cruise on Victoria Harbor | Tsim Sha Tsui, at sea| Yes | Nov 21 | ? | ? 
+E | 吐露港單車遊 + 大尾篤燒烤 | 沙田, 大埔, 大尾篤| 不包 | 11月22日 | $8起 | $13起 |
+F | 維港夜景遊 | 尖沙咀, 海上| 包 | 11月21日 | ? | ? 
 
-The following free, short tours are available: 
+<b>免費半日團</b>
 
-Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
+團號 | 團名 | 地點 | 價格包餐飲？ | 最大機會出發日期| 大概價錢 \(美元/人\) | 餐飲價錢 (如團不包)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-K | Ten Thousand Buddha Monastery  | Shatin  | No | N/A |  Free | ? |
-L | Jao Tsung-I Academy | Lai Chi Kok | No | N/A | Free | ? |
-M | Sam Tun UK Museum | Tsuen Wang| No | N/A| Free | ? |
-N | Tai Fu Tai Mension | ? | No | N/A | Free | ? | 
-O | Wong Tai Sin Temple | Wong Tai Sin } No | N/A | Free | ? | 
-P | Kowloon Walled City Park | Kowloon City | No | N/A | Free | ? |
+K | 沙田萬佛寺 | 沙田  | 不包 | N/A |  免費 | ? |
+L | 饒宗頤文化館 | 荔枝角 | 不包 | N/A | 免費 | ? |
+M | 三棟屋博物館 | 荃灣| 不包 | N/A| 免費 | ? |
+N | 大夫第博物館 | ? | 不包 | N/A | 免費 | ? | 
+O | 黃大仙廟 | 黃大仙 | 不包 | N/A | 免費  | ? | 
+P | 九龍寨城公園 | 九龍城 | 不包 | N/A | 免費  | ? |
 
-### Group Ticket Purchase 
+### 團體票
 
-The following group ticket deals are potentially available.  Prices listed are pre-group discount.  
+所列價格未加上團體節扣。 
 
-Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)}
+團號 | 團名 | 地點 | 價格包餐飲？ | 最大機會出發日期| 大概價錢 \(美元/人\) | 餐飲價錢 (如團不包)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-G | Ocean Park | Ocean Park | No | N/A | $57 | ? |
-H | Disneyland Hong Kong | Sunny Bay, Lantau Island| No | N/A | $77 | ? | 
-I | Peak Tram | Central, at Peak| No | N/A |$8 min | ? 
-J | Hong Kong Observation Wheel | Central | No | N/A | $13 | ? | 
+G | 海洋公園 | 海洋公園 | 不包 | N/A | $57 | ? |
+H | 香港迪士尼樂園 | 欣澳, 大嶼山| 不包 | N/A | $77 | ? | 
+I | 香港纜車 | 中環, 山頂| 不包 | N/A |$8 min | ? 
+J | 香港摩天輪 | 中環 | No | N/A | $13 | ? | 
 
 ### Tour Description 
-#### Macau 1 or 2 Day Tour 
-* fast ferry: 1 hour
-* Price includes round trip boat ride to Macau, ex\-Portuguese colony.  "eastern las vegas" or "Lisbon east" 
-* try some Chinese-Portuguese fusion food, or other local specialities (e.g. pork chop bun, almond biscuit)
-* see ruins of cathedral, fort, portuguese settler museums, museum of macau. wander around senado square, avenida de almeida ribeiro
-* play a couple hands at the various casino, or just wander around "little Venice" and the like within it
-* nothing is included in the price outside of ferry fare
-* need to bring your passport for custom/immigration
-* for 2 day, hotel reservation would be needed and not included in the price 
+#### 澳門一日遊船票
+* 價錢包括澳門來回船票 
 
-#### Hong Kong Geological Park boat tour 
-* see hong kong geo park from the ocean \-\- one of the largest hexagonal column formation of its kind in the world 
-* also accessible by public transit land\-side, but the best part requires a boat
-* includes boat tour, Hakka style lunch, and english guide
-* 30 people max.  less people = higher cost per person.  ～10% tips not included 
+#### 香港地質公園海上遊
+* 包客家午餐， 英語導訪員
+* 最多30人 不包括 10% 小費 
 * http://www.geopark.gov.hk/en_news.htm
 
-#### Ngong Ping 360 Cable Car + Big Buddha/Tai O
-* take Ngong Ping 360 cable car to visit Big buddha on Lantau Island 
-* Big buddha is located inside Po Lin Monastery.  
-* Have a vegetarian lunch at Po Lin Monastery 
-* check out the houses on stilts in Tai O \-\- either via public bus/taxi, group tour on a tour bus, or hike
-* tour or ngong ping 360 tickets available.  prices quoted for ngong ping 360 tickets only 
-* pricing may fluctuate.  group discount not applied, especially for vegetarian food 
-* you can get to big buddha via an extremely high difficulty hike
+#### 昂坪360， 天壇大佛，大澳（？） 遊
+* 自選午餐： 寶蓮寺齋菜
 * https://www.np360.com.hk/en/
 * http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail04.htm
 
-#### Hong Kong Wetland Park + seafood  
-* Visit Hong Kong's Estuary, where tidal pools provide habitats for sea creatures and migratory birds 
-* Seafood market at Lau Fau Shan area.  
+#### 香港濕地公園+流浮山海鮮餐 
 
-#### Tolo Harbor biking tour + group grilling
-* start at Sha Tin and bike along Tolo Harbor 
-* along the way:  Hong Kong Science Park, temple, Tai Po Waterfront Park.  also great view along the harbor
-* multiple starting/stopping points:  sha tin, tai po, and tai mei duk.  1 way bike rental is  OK
-* stop at tai mei duk for group grilling.  Price is all you can eat on basic foodstuff but does not include drinks and other service fees (e.g. grill starting).  no outside drinks allowed
-* can continue biking to Plover Cove Reservoir
-* sha tin to tai po trail \-\- easy
-* after tai po \-\- slightly difficult
-* if you really like biking, you can start at tai wei and end at Plover Cove Reservoir and back
-* multi\-people bike available, but it won't be $8/person
+#### 吐露港單車遊 + 大尾篤燒烤
+* 由沙田出發途經吐露港:  香港科學園, 大埔海濱公園
+* 可由沙田，大埔，或大美督出發.  單程租車OK
+* 大美督燒烤場是自助餐形式，價錢只包基本食品，飲品及開爐費另計，不可帶外來飲品 
+* 可由大尾篤繼續前往船灣淡水湖
 
-#### Night Cruise on Victoria Harbor
-* Party the night away in front of beautiful backdrops along Victoria Harbor 
-* If timing is good we can see the Light Symphony on the waters 
-* light dinner included 
-* there may be a surprise during the tour \-\- stay tuned
+#### 維港夜景遊
+* 包輕食晚餐 
 
-#### ten thousand buddha monastary 
-* hike up from sha tin area on concrete stairs
-* many buddha statues along the way up the monastary 
-* once up the hill, there's great view of the New Territories 
-* optional lunch:  roasted pigeons
+#### 沙田萬佛寺
+* 自選午餐：燒乳鴿，鴿蛋料理
 
-#### Jao Tsung-I academy  
-* museum that focuses on chinese culture situated in a historic building
-* on\-site dining has old\-style chinese food and new western style vegetarian food
+#### 饒宗頤文化館  
+* 館內有懷舊粵菜及新派西式齋菜
 * http://www.jtia.hk/en/about-us/hkipcc-introduction/
 
-#### sam tun uk museum
-* museum is situated in a old hakka village home 
-* discussed hakka village culture and the like
+#### 三棟屋博物館
 * http://www.lcsd.gov.hk/CE/Museum/ICHO/en_US/web/icho/sam_tung_uk_museum.html 
 
-#### tai fu tai mansion
-* residence of a famous scholar/rich person, built in late Qing Dynasty 
-* see the layout of a old chinese residence
-* free admission
-* a bit difficult to get to (no MTR station nearby, need to take a minibus/bus)
+#### 大夫第博物館
 * http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_32.php#
 
-#### Wong Tai Sin temple
-* a taoism temple for Wong Tai Sin
-* there's a small, chinese style garden inside the temple 
-* temple part is free, the chinese style garden has a small admission fee
+#### 黃大仙廟
 * http://www1.siksikyuen.org.hk/en/wong-tai-sin*temple
 
-#### Kowloon Walled City Park 
-* situated at the same location as the fabled "kowloon walled city" 
-* chinese style park, with some historic artifacts to see
+#### 九龍寨城公園
 * http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_62.php
 
-#### Ocean Park 
-* combination of seaworld, zoo, and six flags
-* has panda! 
+#### 海洋公園
 * https://www.oceanpark.com.hk/en
 
-#### Disneyland Hong Kong 
-* disneyland... not much more to say about that
-* special, disneyland themed MTR train runs to Disneyland from Sunny Bay.  separate ticket required
+#### 香港迪士尼樂園 
 * https://www.hongkongdisneyland.com/
 
-#### peak tram
-* great view of Kowloon from the Peak
-* group discount not included
+#### 香港纜車
 * http://www.thepeak.com.hk/en/home.asp 
 
-#### Hong kong observation wheel
-* giant ferris wheel located near Central Pier
-* see the view and feel the sea breeze 
+#### 香港摩天輪
 * http://www.hkow.hk/en/
