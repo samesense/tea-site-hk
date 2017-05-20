@@ -8,7 +8,7 @@ weight = 6
 
 本地團日期及內容會因應參加人數作出更改，敬請留意。 
 
-[請按此報團](http://google.com) 
+[請按此報團](https://goo.gl/forms/1ZEGajmwTFbWLvf23) 
 
 ### *付費全日團*
 
