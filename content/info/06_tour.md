@@ -61,12 +61,12 @@ J | 香港摩天輪 | 中環 | No | N/A | $13 | ? |
 #### *香港地質公園海上遊*
 * 包客家午餐， 英語導訪員
 * 最多30人 不包括 10% 小費 
-* http://www.geopark.gov.hk/en_news.htm
+* http://www.geopark.gov.hk/b5_news.htm
 
 #### *昂坪360， 天壇大佛，大澳（？） 遊*
 * 自選午餐： 寶蓮寺齋菜
-* https://www.np360.com.hk/en/
-* http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail04.htm
+* https://www.np360.com.hk/tc/
+* http://hiking.gov.hk/chi/longtrail/ltrail/ltrail/ltrail04.htm
 
 #### *香港濕地公園+流浮山海鮮餐* 
 
@@ -84,28 +84,28 @@ J | 香港摩天輪 | 中環 | No | N/A | $13 | ? |
 
 #### *饒宗頤文化館*  
 * 館內有懷舊粵菜及新派西式齋菜
-* http://www.jtia.hk/en/about-us/hkipcc-introduction/
+* http://www.jtia.hk/about-us/hkipcc-introduction/
 
 #### *三棟屋博物館*
-* http://www.lcsd.gov.hk/CE/Museum/ICHO/en_US/web/icho/sam_tung_uk_museum.html 
+* http://www.lcsd.gov.hk/CE/Museum/ICHO/zh_TW/web/icho/sam_tung_uk_museum.html
 
 #### *大夫第博物館*
-* http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_32.php#
+* http://www.lcsd.gov.hk/CE/Museum/Monument/b5/monuments_32.php
 
 #### *黃大仙廟*
-* http://www1.siksikyuen.org.hk/en/wong-tai-sin*temple
+* http://www1.siksikyuen.org.hk/zh-HK/%E9%BB%83%E5%A4%A7%E4%BB%99%E7%A5%A0%E6%A6%82%E8%A6%BD
 
 #### *九龍寨城公園*
-* http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_62.php
+* http://www.lcsd.gov.hk/CE/Museum/Monument/b5/monuments_62.php
 
 #### *海洋公園*
-* https://www.oceanpark.com.hk/en
+* https://www.oceanpark.com.hk
 
 #### 香港迪士尼樂園 
 * https://www.hongkongdisneyland.com/
 
 #### *香港纜車*
-* http://www.thepeak.com.hk/en/home.asp 
+* http://www.thepeak.com.hk/tc/home.asp
 
 #### *香港摩天輪*
-* http://www.hkow.hk/en/
+* http://www.hkow.hk/
