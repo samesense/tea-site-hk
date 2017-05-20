@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "曉桓 & Perry 婚禮"
+title = "曉桓 & Perry\n婚禮"
 baseURL = "https://samesense.github.io/tea-site-hk/"
 theme = "hyde"
 publishDir = "public"
