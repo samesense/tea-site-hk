@@ -69,7 +69,7 @@ J | 香港摩天輪 | 中環 | No | N/A | $13 | ? |
 * http://hiking.gov.hk/chi/longtrail/ltrail/ltrail/ltrail04.htm
 
 #### *香港濕地公園及流浮山海鮮餐* 
-* 
+* 暫未有資料提供
 
 #### *吐露港單車遊及大尾篤燒烤*
 * 由沙田出發途經吐露港:  香港科學園, 大埔海濱公園
