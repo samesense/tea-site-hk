@@ -40,7 +40,7 @@ K | [沙田萬佛寺](https://samesense.github.io/tea-site-hk/info/06_tour/#沙�
 L | [饒宗頤文化館](https://samesense.github.io/tea-site-hk/info/06_tour/#饒宗頤文化館) | 荔枝角 | 不包 | N/A | 免費 | ? |
 M | [三棟屋博物館](https://samesense.github.io/tea-site-hk/info/06_tour/#三棟屋博物館) | 荃灣| 不包 | N/A| 免費 | ? |
 N | [大夫第博物館](https://samesense.github.io/tea-site-hk/info/06_tour/#大夫第博物館) | 元朗 | 不包 | N/A | 免費 | ? | 
-O | [黃大仙廟](https://samesense.github.io/tea-site-hk/info/06_tour/https://samesense.github.io/tea-site-hk/info/06_tour/#黃大仙廟) | 黃大仙 | 不包 | N/A | 免費  | ? | 
+O | [黃大仙廟](https://samesense.github.io/tea-site-hk/info/06_tour/#黃大仙廟) | 黃大仙 | 不包 | N/A | 免費  | ? | 
 P | [九龍寨城公園](https://samesense.github.io/tea-site-hk/info/06_tour/#九龍寨城公園) | 九龍城 | 不包 | N/A | 免費  | ? |
 
 ### *團體票*
